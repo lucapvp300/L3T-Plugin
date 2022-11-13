@@ -1,1 +1,1 @@
-[{"ColorB":255,"ColorR":255,"ColorMap":"rbxassetid://10256547968","NormalMap":"rbxassetid://10256551936","RoughnessMap":"rbxassetid://10256555962","Tags":"pool, poolrooms, tiles, white tiles, white","ColorG":255,"MetalnessMap":"","Name":"pool tiles","Pattern":"Regular","ID":"Pool_Tiles","Preview":"rbxassetid://10257818758","Base":"Concrete","Studs":10}]
+{"Hazzard_Stripe_Texture":{"ID":"Hazzard_Stripe_Texture","Studs":20,"Tags":"hazzard, stripe, danger, caution, yellow, black","Image":"rbxassetid://10777989703","ColorR":255,"ColorB":255,"Name":"hazzard stripe","ColorG":255}}
